@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ubiquitous.cli": {
+      "commandName": "Project",
+      "commandLineArgs": "init javascript test-function"
+    }
+  }
+}
